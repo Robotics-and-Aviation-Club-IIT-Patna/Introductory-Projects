@@ -27,8 +27,12 @@ Make sure you have the following installed:
 ## Result
 
 - Input image
-  ![Input Image]( count number of faces using python - OpenCv\sample2.webp)
+  
+
+![sample2](https://github.com/Robotics-and-Aviation-Club-IIT-Patna/Introductory-Projects/assets/145229193/22a83f30-3aa6-4a5e-b553-dd37c26790a8)
+
 
 - Output image
 
-![Output Image](count number of faces using python - OpenCv\sampleoutput.png)
+
+![sampleoutput](https://github.com/Robotics-and-Aviation-Club-IIT-Patna/Introductory-Projects/assets/145229193/06753b38-8474-417a-b08f-0fa268c6690d)
